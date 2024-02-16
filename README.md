@@ -1,16 +1,21 @@
-### Hi there 👋
+# Ahmed - Passionate Python & Web Developer 👨‍💻
 
-<!--
-**AhmedTools/AhmedTools** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! I'm Ahmed, a dedicated programmer with a passion for Python and web development. Welcome to my coding world! 🚀
 
-Here are some ideas to get you started:
+## About Me
+- 💻 Python & Web Developer
+- 🌐 Check out my [Telegram Channel](https://t.me/ahmedtools) for cool tools and resources.
+- 📫 Reach me on Telegram: [@u_l_w](https://t.me/u_l_w)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- 🐍 Python
+- 💻 HTML & CSS
+- 🌐 Web Development
+
+## Connect with Me
+- [Telegram](https://t.me/u_l_w)
+- [Telegram Channel](https://t.me/ahmedtools)
+- [Instagram](https://www.instagram.com/ic7rta/)
+
+## Let's Code Together!
+Feel free to explore my repositories and join me on this coding journey. Let's learn, build, and innovate together! 🌟
