@@ -5,7 +5,7 @@ Hey there! I'm Ahmed, a dedicated programmer with a passion for Python and web d
 ## About Me
 - 💻 Python & Web Developer
 - 🌐 Check out my [Telegram Channel](https://t.me/ahmedtools) for cool tools and resources.
-- 📫 Reach me on Telegram: [@u_l_w](https://t.me/u_l_w)
+- 📫 Reach me on Telegram: [@YYYaYY](https://t.me/YYYaYY)
 
 ## Tech Stack
 - 🐍 Python
@@ -13,9 +13,6 @@ Hey there! I'm Ahmed, a dedicated programmer with a passion for Python and web d
 - 🌐 Web Development
 
 ## Connect with Me
-- [Telegram](https://t.me/u_l_w)
+- [Telegram](https://t.me/YYYaYY)
 - [Telegram Channel](https://t.me/ahmedtools)
 - [Instagram](https://www.instagram.com/ic7rta/)
-
-## Let's Code Together!
-Feel free to explore my repositories and join me on this coding journey. Let's learn, build, and innovate together! 🌟
