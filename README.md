@@ -1,4 +1,4 @@
-# Ahmed - Passionate Python & Web Developer 👨‍💻
+# Ahmed - Python & Web Developer 👨‍💻
 
 Hey there! I'm Ahmed, a dedicated programmer with a passion for Python and web development. Welcome to my coding world! 🚀
 
