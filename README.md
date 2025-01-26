@@ -5,12 +5,11 @@ Hey there! I'm Ahmed, a dedicated programmer with a passion for Python and web d
 ## About Me
 - 💻 Python & Web Developer
 - 🌐 Check out my [Telegram Channel](https://t.me/ahmedtools) for cool tools and resources.
-- 📫 Reach me on Telegram: [@YYYaYY](https://t.me/YYYaYY)
+- 📫 Reach me on Telegram : [@YYYaYY](https://t.me/YYYaYY)
 
 ## Tech Stack
 - 🐍 Python
 - 💻 HTML & CSS
-- 🌐 Web Development
 
 ## Connect with Me
 - [Telegram](https://t.me/YYYaYY)
