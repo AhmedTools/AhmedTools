@@ -24,8 +24,8 @@ Welcome to my profile , I hope you'll find interesting projects and ideas here .
   Contact Me
 </h2>
 
-- Telegram: [@YYYaYY](https://t.me/YYYaYY)  
-- GitHub: [Ahmed's Repos](https://github.com/AhmedTools)  
+- Telegram : [@YYYaYY](https://t.me/YYYaYY)  
+- GitHub : [Ahmed's Repos](https://github.com/AhmedTools)  
 
 ---
 
