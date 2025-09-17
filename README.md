@@ -1,10 +1,10 @@
 <h1 align="center">
   <img src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/56270ff679d24b7.png" width="35px" height="35px">
-  Hello, я Ahmed !!
+  Hello, Ahmed !
 </h1>
 
 <p align="center">
-Welcome to my profile! I hope you'll find interesting projects and ideas here ..
+Welcome to my profile , I hope you'll find interesting projects and ideas here ..
 </p>
 
 ---
